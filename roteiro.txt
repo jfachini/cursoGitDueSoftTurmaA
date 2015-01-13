@@ -22,4 +22,8 @@ Parte 3:
 
 ------------------------------------------------------
 Final:
+Uma era se passou, Gladius era o mestre Git de sua tribo,
+não havia ninguém que pudesse se comparar a ele,
+nesse momento decidiu que era hora de abrir sua mais nova
+firma e passar seu conhecimento para as futuras gerações...
 
