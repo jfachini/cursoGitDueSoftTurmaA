@@ -3,14 +3,19 @@ Roteiro:
 Parte 1:
 Conta-se que há muito tempo habitava solitário em 
 uma caverna um sujeito estranho chamado Gladius.
-Por estar muito solitário ele passou a.......
+Por estar muito solitário ele passou a procurar
+algo que lhe fosse muito interessante, assim ocupava
+sua mente de forma construtiva.
 
 
 
 ------------------------------------------------------
 Parte 2:
 
-
+Gladius encontrou uma placa de pedra o curso de Git 
+em sua estante na caverna, não queria seguir os passos
+de seu pai, um simples programador de Mamutes, mas ainda 
+sim deu uma chance para velha placa.
 
 
 
@@ -20,6 +25,9 @@ Parte 3:
 
 
 
+
+
 ------------------------------------------------------
 Final:
+
 
