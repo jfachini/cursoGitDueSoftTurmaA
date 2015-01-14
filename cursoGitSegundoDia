@@ -1,0 +1,10 @@
+Reset:
+git reset --hard hash
+
+
+Conflitos. Primeiro vamos criar a conta no git hub para acessar nosso servidor web.
+
+
+Adicionar pessoas ao projeto.
+
+Passar projeto. Mostrar resolução de conflitos, blame e revisar geral, falar sobre cursos.
